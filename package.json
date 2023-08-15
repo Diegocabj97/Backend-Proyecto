@@ -1,0 +1,19 @@
+{
+  "name": "servidores-web-con-nodemon",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "desafio3.js",
+  "scripts": {
+    "dev": "nodemon src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
